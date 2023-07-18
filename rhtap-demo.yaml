@@ -1,0 +1,4 @@
+mapping:
+  components:
+  - name: rhtap-demo-component-igri
+    repository: quay.io/gabemontero/test-release-images
